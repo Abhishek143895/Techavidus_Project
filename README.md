@@ -1,6 +1,6 @@
-## Project Name: Music Player
+## Project Name: Techavidus Project
 
-## Project Description: Created Multi-Functional Music Player using Html, Css amd VanilaJs.
+## Project Description: Created Multi-Functional Front End Page using Html, Css and 
 
 
 ## Features
@@ -21,4 +21,4 @@ Abhishek srivastava
 
 
 ## Link
- https://abhishek143895.github.io/Music_Player/
+ https://abhishek143895.github.io/Techavidus_Project/
